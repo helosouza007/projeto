@@ -5,3 +5,12 @@ html, body {
 canvas {
   display: block;
 }
+
+body {
+    background:#cccccc
+}               
+
+p {
+    text-align: center;                   
+}
+
